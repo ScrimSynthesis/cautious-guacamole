@@ -1,0 +1,33 @@
+HOW TO TALK ABOUT THIS DASHBOARD
+
+"I mocked this up as a way to organize how I would run a pilot plant operation, not just a reaction. Even if the system is already designed, there is still a lot of value in making the process repeatable, making the data trustworthy, and creating a clean handoff between operations, R&D, and leadership."
+
+BEST 30-SECOND VERSION
+
+"I started thinking about the pilot plant as a batch release and learning system. I want to know if the batch was stable, if the data is trustworthy, whether post-maintenance verification happened, what the operator saw, and how that gets handed off to R&D and production."
+
+WHAT EACH NEW TAB MEANS
+
+Batch Release
+- shows whether a batch should be trusted for conclusions
+- keeps shaky data from quietly becoming scale-up guidance
+
+Post-Maintenance Verification
+- shows your reliability mindset
+- proves you think about return-to-service discipline
+
+Operator Notes
+- captures observations that numbers alone may miss
+- gives root-cause clues later
+
+Pilot-to-Production Handoff
+- proves you think cross-functionally
+- translates process behavior into action for R&D, ops, and leadership
+
+GOOD INTERVIEW LINE
+
+"The chemistry matters, but a big part of the job is deciding whether the batch was stable enough and documented well enough to actually learn from it."
+
+ANOTHER GOOD LINE
+
+"I want one source of truth that helps the operator run well, helps engineering diagnose drift, and helps leadership trust the data."
